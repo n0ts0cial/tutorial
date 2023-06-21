@@ -1,8 +1,7 @@
 # TUTORIALS
 Multiple tutorials to help IT professionals
 ## POWERSHEL TUTORIALS
-### [TUTORIAL POWERSHELL - ](https://techexpert.tips/equipment-list-powershell/)
-### [TUTORIAL POWERSHELL - ](https://techexpert.tips/powershell/downloading-file-using-powershell/)
+### [TUTORIAL POWERSHELL - DOWNLOADING FILE USING POWERSHELL](https://techexpert.tips/powershell/downloading-file-using-powershell/)
 ### [TUTORIAL POWERSHELL - ](https://techexpert.tips/powershell/encoding-powershell-script-base64/)
 ### [TUTORIAL POWERSHELL - ](https://techexpert.tips/powershell/gpo-prevent-access-to-powershell/)
 ### [TUTORIAL POWERSHELL - ](https://techexpert.tips/powershell/powershell7-installation-windows/)
