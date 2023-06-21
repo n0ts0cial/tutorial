@@ -1,6 +1,6 @@
 # TUTORIALS
 Multiple tutorials to help IT professionals
-## POWERSHEL TUTORIALS
+# POWERSHELL TUTORIALS
 ### [TUTORIAL POWERSHELL - DOWNLOADING FILE USING POWERSHELL](https://techexpert.tips/powershell/downloading-file-using-powershell/)
 ### [TUTORIAL POWERSHELL - ENCODING POWERSHELL SCRIPT AS BASE64 ](https://techexpert.tips/powershell/encoding-powershell-script-base64/)
 ### [TUTORIAL POWERSHELL - GPO PREVENT ACCESS TO POWERSHELL](https://techexpert.tips/powershell/gpo-prevent-access-to-powershell/)
